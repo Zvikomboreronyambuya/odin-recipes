@@ -1,0 +1,85 @@
+/* Style the body */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #c5c1c1;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+/* Style the header (h1) */
+h1 {
+    text-align: center;
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+}
+
+/* Style the image */
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+/* Style the horizontal line (hr) */
+hr {
+    border: 1px solid #333;
+}
+
+/* Style the list (ul) */
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+/* Style list items (li) */
+li {
+    margin: 10px 0;
+}
+
+/* Style links (a) in the list */
+li a {
+    text-decoration: none;
+    color: #0e0c0c;
+}
+
+/* Add hover effect to links */
+a:hover {
+    color: #666;
+}
+
+h4.recipe {
+    text-decoration: underline;
+}
+ul {
+    list-style-type: disc; /* Set the list item marker type (e.g., disc, circle, square) */
+    margin: 20px 0; /* Add margin to space the list from surrounding elements */
+    padding: 0; /* Remove default padding */
+}
+.smoothie {
+    height: 500px;
+    width: 400px;
+}
+
+h4.method {
+    text-decoration: underline;
+}
+
+.link-back:hover{
+    color: #666;
+}
+
+#button{
+    color: #333;
+    background-color: transparent;
+    border: 2px solid #ffffff;
+    border-radius: 20px; 
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 10px 5px;
+    cursor: pointer;
+    border-color: #333;
+}
